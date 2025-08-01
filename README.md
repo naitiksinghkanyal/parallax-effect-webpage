@@ -1,4 +1,4 @@
- Parallax Effect Webpage
+ Parallax Effect Webpage:
 
 This project demonstrates a visually engaging parallax scrolling effect on a webpage, where different elements move at different speeds to create a sense of depth as you scroll. 
 The webpage is designed to showcase various adventure activities such as biking, paragliding, and surfing.
